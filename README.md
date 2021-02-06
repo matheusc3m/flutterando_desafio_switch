@@ -1,8 +1,13 @@
 # nintendo_swt
 
-A new Flutter project.
+Challenge proposed by Flutterando community.
 
-<img src="screenshots/mockup.png" style="width:40%">>
+## Mockup Link
+https://www.figma.com/file/EVeqd5Nlgr3MNE2JyespMj/NintendoSwt-Flutterando?node-id=2%3A102
 
-## Getting Started
+## ScreenShoot
+<img src="screenshots/mockup.png" style="width:30%">>
+
+
+
 
