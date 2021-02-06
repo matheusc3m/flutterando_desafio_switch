@@ -1,4 +1,4 @@
-# nintendo_swt
+# Design inspirated by Nintendo_swt
 
 Challenge proposed by Flutterando community.
 
@@ -6,8 +6,4 @@ Challenge proposed by Flutterando community.
 https://www.figma.com/file/EVeqd5Nlgr3MNE2JyespMj/NintendoSwt-Flutterando?node-id=2%3A102
 
 ## ScreenShoot
-<img src="screenshots/mockup.png" style="width:30%">>
-
-
-
-
+<img src="screenshots/mockup.png" style="width:30%">
